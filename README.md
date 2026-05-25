@@ -40,4 +40,4 @@ Bases de donnees  MySQL · SQL Server · Supabase
 
 - **Localisation** : Belgique (Bruxelles / Hainaut)
 - **Statut** : Ouvert aux opportunites (stage, alternance, premier emploi)
-- **LinkedIn** : *(a venir)*
+- **LinkedIn** : [Ernest Hadjiu](https://www.linkedin.com/in/ernest-hadjiu-54144916a/)
